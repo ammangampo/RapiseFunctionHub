@@ -1,0 +1,20 @@
+{
+  "name": "cucjs",
+  "version": "1.0.0",
+  "main": "Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cucumber/cucumber": "^7.3.2",
+    "cucumber": "^6.0.7",
+    "deasync": "^0.1.30",
+    "puppeteer": "^22.13.1",
+    "selenium-webdriver": "^4.22.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}

@@ -1,0 +1,2 @@
+<log type="Session" name="LT-IMC-QA-0174:laresuser" at="2024-07-18 12:14:30.849"/>
+<log type="Assert" name="Initialization error" status="Fail"  at="2024-07-18 12:14:30.859" comment="Error evaluating script file C:\Users\laresuser\Documents\My Rapise Tests\BDD Test\Main.js (syntax error): ReferenceError: Cucumber is not defined" />

@@ -1,0 +1,20 @@
+# BDD Test
+# Starting scenario: Test
+ok 1 - Global.DoSetScreenResolution: 1920, 1080
+not ok 2 - Object is not found: <a href='showobject'>CLRP_Main_Login</a>
+#     Failed test
+# Feature: Login functionality / Successful login
+not ok 3 - Login functionality / Successful login
+#     Failed test
+not ok 4 - Feature: Login functionality / Successful login
+#     Failed test
+not ok 5 - Object is not found: <a href='showobject'>Admin_User_Button</a>
+#     Failed test
+# Feature: Login functionality / Logout
+not ok 6 - Login functionality / Logout
+#     Failed test
+not ok 7 - Feature: Login functionality / Logout
+#     Failed test
+not ok 8 - BDD Test
+#     Failed test
+# Screenshot

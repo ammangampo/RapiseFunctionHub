@@ -1,0 +1,5 @@
+<log type="Session" name="LT-IMC-QA-0174:laresuser" at="2024-07-18 12:54:17.453"/>
+<log type="Test" name="BDD Test" status="Info"  at="2024-07-18 12:54:18.173"><data type="text">Test Started: C:\Users\laresuser\Documents\My Rapise Tests\BDD Test\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2024-07-18 12:54:18.180"/>
+<log type="Assert" name="Global.DoSetScreenResolution: 1920, 1080" status="Pass"  at="2024-07-18 12:54:18.325"/>

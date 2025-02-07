@@ -1,0 +1,236 @@
+C:\Program Files (x86)\Inflectra\Rapise\Engine\InstrumentJS\NodeWScript.js 6.0
+SeS Player Starting...
+Rapise Version:7.4.27.88
+Verbose level:1
+Creating a locator:Spreadsheet
+Creating a locator:HTML
+Creating a locator:HTML FPP
+Checking global object: Cucumber
+Global object Cucumber is not defined yet
+Assembling global object: Cucumber
+Action found: Run
+Checking global object: Generator
+Global object Generator is not defined yet
+Assembling global object: Generator
+Action found: GetNextValue
+Action found: Create
+Action found: Format
+Creating a locator:REST
+Creating a locator:SOAP
+Checking global object: Spira
+Global object Spira is not defined yet
+Assembling global object: Spira
+Action found: GetHostToken
+Action found: GetProjectId
+Action found: GetAutomationHostId
+Action found: RunTestSet
+Action found: CreateIncident
+Action found: GetTestCaseById
+Action found: UpdateTestCase
+Action found: CreateTestCase
+Action found: GetTestCaseFolders
+Action found: CreateTestCaseFolder
+Action found: GetTestCasesInFolder
+Action found: GetProjectById
+Action found: GetTestCaseTypes
+Initializing Web, g_browserLibrary=Selenium
+Creating a locator:UIAutomation
+Creating a locator:UIAutomation2
+###BDD Test (-2)
+###Starting scenario: Test (-2)
+###Global.DoSetScreenResolution: 1920, 1080 (1)
+Using default WebAppProfile
+Attach result: Rapise WebSpy code embedded into Selenium
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:403 Forbidden
+
+403 Forbidden(HTMLObject)[-1]
+Looking for object:CLRP_Main_Login
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+Object is NOT available on screen:CLRP_Main_Login (Login)
+###Object is not found: <a href='showobject'>CLRP_Main_Login</a> (0)
+Test stopped on error: Object is not found: <a href='showobject'>CLRP_Main_Login</a>
+###Feature: Login functionality / Successful login (-2)
+Login functionality / Successful login
+  Given the user is on the login page - PASSED
+  When the user enters valid credentials - FAILED
+  And the user clicks on the login button - SKIPPED
+  Then the user should be redirected to the dashboard - SKIPPED
+###Login functionality / Successful login (0)
+
+###Feature: Login functionality / Successful login (0)
+Looking for object:Admin_User_Button
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:null
+Object is NOT available on screen:Admin_User_Button ()
+###Object is not found: <a href='showobject'>Admin_User_Button</a> (0)
+Test stopped on error: Object is not found: <a href='showobject'>Admin_User_Button</a>
+###Feature: Login functionality / Logout (-2)
+Login functionality / Logout
+  Given the user is logged in - PASSED
+  When the user clicks on the logout button - FAILED
+  Then the user should be logged out successfully - SKIPPED
+###Login functionality / Logout (0)
+
+###Feature: Login functionality / Logout (0)
+Failures:
+
+1) Scenario: Successful login # features\login.feature:4
+   √ Given the user is on the login page # features\step_definitions\login.js:1
+   × When the user enters valid credentials # features\step_definitions\login.js:10
+       Error: 500
+           at SeSTester.FailTest (C:\Program Files (x86)\Inflectra\Rapise\Engine\SeSTester.js:1984:13)
+           at SeSTester._Report (C:\Program Files (x86)\Inflectra\Rapise\Engine\SeSTester.js:961:10)
+           at SeSTester.Assert (C:\Program Files (x86)\Inflectra\Rapise\Engine\SeSTester.js:990:8)
+           at SeSReportError (C:\Program Files (x86)\Inflectra\Rapise\Engine\SeSErrors.js:131:9)
+           at SeS (C:\Program Files (x86)\Inflectra\Rapise\Engine\Player.js:421:4)
+           at World.<anonymous> (C:\Users\laresuser\Documents\My Rapise Tests\BDD Test\features\step_definitions\login.js:14:5)
+   - And the user clicks on the login button # features\step_definitions\login.js:19
+   - Then the user should be redirected to the dashboard # features\step_definitions\login.js:25
+
+2) Scenario: Logout # features\login.feature:11
+   √ Given the user is logged in # features\step_definitions\login.js:40
+   × When the user clicks on the logout button # features\step_definitions\login.js:45
+       Error: 500
+           at SeSTester.FailTest (C:\Program Files (x86)\Inflectra\Rapise\Engine\SeSTester.js:1984:13)
+           at SeSTester._Report (C:\Program Files (x86)\Inflectra\Rapise\Engine\SeSTester.js:961:10)
+           at SeSTester.Assert (C:\Program Files (x86)\Inflectra\Rapise\Engine\SeSTester.js:990:8)
+           at SeSReportError (C:\Program Files (x86)\Inflectra\Rapise\Engine\SeSErrors.js:131:9)
+           at SeS (C:\Program Files (x86)\Inflectra\Rapise\Engine\Player.js:421:4)
+           at World.<anonymous> (C:\Users\laresuser\Documents\My Rapise Tests\BDD Test\features\step_definitions\login.js:46:5)
+   - Then the user should be logged out successfully # features\step_definitions\login.js:51
+
+2 scenarios (2 failed)
+7 steps (2 failed, 3 skipped, 2 passed)
+0m23.454s (executing steps: 0m23.408s)
+// ================================
+
+// ================================
+
+
+###BDD Test (0)
+###Screenshot (-2)
+Test execution done
+##############################################################
+Test Fail: Feature: Login functionality / Successful login,  (Passed:0 Failed:1 Time:0.011s)
+Test Fail: Feature: Login functionality / Logout,  (Passed:0 Failed:1 Time:0.013s)
+Test Fail: BDD Test,  (Passed:1 Failed:4 Time:23.605s)
+Test Session Status: Fail Time: 24.709s
+##############################################################
