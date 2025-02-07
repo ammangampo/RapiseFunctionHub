@@ -1,0 +1,6 @@
+<log type="Session" name="LT-IMC-QA-0174:laresuser" at="2025-01-06 13:44:46.574"/>
+<log type="Test" name="Email Test" status="Info" _testPath="C:\Users\laresuser\Documents\My Rapise Tests\Email Test\Email Test.sstest"  at="2025-01-06 13:44:47.093"><data type="text">Executing Script: C:\Users\laresuser\Documents\My Rapise Tests\Email Test\Email Test.sstest</data>
+<data type="text">Entry Point: Test</data>
+</log>
+<log type="Message" name="temporary password: &lt;b&gt;F!#rjbzD&lt;/b&gt;" status="Info"  at="2025-01-06 13:44:53.182"/>
+<log type="Test" name="Email Test" status="Unresolved" closed="Email Test" _guid="undefined"  at="2025-01-06 13:44:53.198" comment="Passed:0 Failed:0 Time:6.413s" />

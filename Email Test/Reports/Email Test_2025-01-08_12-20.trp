@@ -1,0 +1,7 @@
+<log type="Session" name="LT-IMC-QA-0174:laresuser" at="2025-01-08 12:20:51.747"/>
+<log type="Test" name="Email Test" status="Info" _testPath="C:\Users\laresuser\Documents\My Rapise Tests\Email Test\Email Test.sstest"  at="2025-01-08 12:20:52.400"><data type="text">Executing Script: C:\Users\laresuser\Documents\My Rapise Tests\Email Test\Email Test.sstest</data>
+<data type="text">Entry Point: Test</data>
+</log>
+<log type="Message" name="Pass@123" status="Info"  at="2025-01-08 12:20:52.411"/>
+<log type="Message" name="Global.DoKillByPid: 15756" status="Info"  at="2025-01-08 12:20:52.660" comment="Terminated succesfully" />
+<log type="Test" name="Email Test" status="Unresolved" closed="Email Test" _guid="undefined"  at="2025-01-08 12:20:59.226" comment="Passed:0 Failed:0 Time:6.996s" />

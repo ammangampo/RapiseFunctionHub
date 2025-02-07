@@ -1,0 +1,7 @@
+<log type="Session" name="LT-IMC-QA-0174:laresuser" at="2024-07-09 21:25:24.739"/>
+<log type="Test" name="Email Test" status="Info"  at="2024-07-09 21:25:26.146"><data type="text">Test Started: C:\Users\laresuser\Documents\My Rapise Tests\Email Test\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2024-07-09 21:25:26.146"/>
+<log type="Assert" name="Execution terminated by user" status="Fail"  at="2024-07-09 21:26:03.883"><data type="link" url="C:\Users\laresuser\Documents\My Rapise Tests\Email Test\Main.js(15,4)" text="C:\Users\laresuser\Documents\My Rapise Tests\Email Test\Main.js(15,4)"/>
+<data type="text">var emailBody = CheckForMail(imapServer, port, emailAddr, pwd, folder, subjectPattern, timeout);</data>
+</log>

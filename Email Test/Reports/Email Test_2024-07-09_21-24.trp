@@ -1,0 +1,9 @@
+<log type="Session" name="LT-IMC-QA-0174:laresuser" at="2024-07-09 21:24:55.745"/>
+<log type="Test" name="Email Test" status="Info"  at="2024-07-09 21:24:56.991"><data type="text">Test Started: C:\Users\laresuser\Documents\My Rapise Tests\Email Test\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2024-07-09 21:24:57.007"/>
+<log type="Assert" name="Failure in Test" status="Fail"  at="2024-07-09 21:24:57.011"><data type="text" caption="Exception">TypeError(-2146823279): &apos;emailAddress&apos; is undefined</data>
+<data type="link" url="C:\Users\laresuser\Documents\My Rapise Tests\Email Test\Main.js(15,4)" text="C:\Users\laresuser\Documents\My Rapise Tests\Email Test\Main.js(15,4)"/>
+<data type="text">var emailBody = CheckForMail(imapServer, port, emailAddress, password, folder, subjectPattern, timeout);</data>
+</log>
+<log type="Test" name="Email Test" status="Fail" closed="Email Test" _guid="undefined"  at="2024-07-09 21:24:57.029" comment="Passed:0 Failed:1 Time:0.215s" />

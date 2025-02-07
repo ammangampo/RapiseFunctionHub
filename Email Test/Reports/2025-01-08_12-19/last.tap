@@ -1,0 +1,7 @@
+# Email Test
+# Pass@123
+# Global.DoKillByPid: 25468
+not ok 1 - Failure in Test
+#     Failed test
+not ok 2 - Email Test
+#     Failed test

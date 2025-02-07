@@ -1,0 +1,20 @@
+C:\Program Files (x86)\Inflectra\Rapise\Engine\InstrumentJS\NodeWScript.js 6.0
+SeS Player Starting...
+Rapise Version:8.2.30.77
+Verbose level:1
+Initializing Web, g_browserLibrary=Selenium
+###Email Test (-2)
+Using default WebAppProfile
+Attach result: Rapise WebSpy code embedded into Selenium
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:HTML(HTMLObject)[-1]
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:q(HTMLObject)[-1]
+q.DoSetText("Pass@123")
+Action result:true
+###Email Test (-1)
+Test execution done
+##############################################################
+Test Unresolved: Email Test,  (Passed:0 Failed:0 Time:2.505s)
+Test Session Status: Unresolved Time: 4.07s
+##############################################################

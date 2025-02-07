@@ -1,0 +1,6 @@
+<log type="Session" name="LT-IMC-QA-0174:laresuser" at="2024-07-09 22:48:46.515"/>
+<log type="Test" name="Email Test" status="Info"  at="2024-07-09 22:48:47.396"><data type="text">Test Started: C:\Users\laresuser\Documents\My Rapise Tests\Email Test\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2024-07-09 22:48:47.396"/>
+<log type="Message" name="undefined" status="Info"  at="2024-07-09 22:49:28.577"/>
+<log type="Test" name="Email Test" status="Unresolved" closed="Email Test" _guid="undefined"  at="2024-07-09 22:49:28.584" comment="Passed:0 Failed:0 Time:41.317s" />

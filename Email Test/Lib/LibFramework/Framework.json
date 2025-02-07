@@ -1,0 +1,11 @@
+{
+	"testsets": [
+		{
+			"id": "55d90bdc",
+			"name": "Default",
+			"description": "Default test set",
+			"configId": "247a025e",
+			"testcases": []
+		}
+	]
+}

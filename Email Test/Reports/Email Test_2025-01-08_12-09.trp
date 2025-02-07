@@ -1,0 +1,20 @@
+<log type="Session" name="LT-IMC-QA-0174:laresuser" at="2025-01-08 12:09:48.908"/>
+<log type="Test" name="Email Test" status="Info" _testPath="C:\Users\laresuser\Documents\My Rapise Tests\Email Test\Email Test.sstest"  at="2025-01-08 12:09:49.493"><data type="text">Executing Script: C:\Users\laresuser\Documents\My Rapise Tests\Email Test\Email Test.sstest</data>
+<data type="text">Entry Point: Test</data>
+</log>
+<log type="Message" name="EAAAANWj1KqdP2HwupX568kPp/ekWyzxm0KRi+K3mZB3gOM1" status="Info"  at="2025-01-08 12:09:49.505"/>
+<log type="Assert" name="Failure in Test" status="Fail"  at="2025-01-08 12:09:49.509"><data type="text" caption="Exception">ReferenceError(undefined): c is not defined</data>
+<data type="link" url="C:\Users\laresuser\Documents\My Rapise Tests\Email Test\Main.js(29,24)" text="    at Test (C:\Users\laresuser\Documents\My Rapise Tests\Email Test\Main.js:29:24)"/>
+<data type="text">&lt;pre&gt;ReferenceError: c is not defined&lt;br/&gt;
+    at Test (C:\Users\laresuser\Documents\My Rapise Tests\Email Test\Main.js:29:24)&lt;br/&gt;
+    at C:\Program Files (x86)\Inflectra\Rapise\Engine\Player.js:369:5&lt;br/&gt;
+    at Script.runInThisContext (node:vm:123:12)&lt;br/&gt;
+    at global.SeSIncludeFile (C:\Program Files (x86)\Inflectra\Rapise\Engine\InstrumentJS\NodeWScript.js:117:10)&lt;br/&gt;
+    at Object.&lt;anonymous&gt; (C:\Program Files (x86)\Inflectra\Rapise\Engine\InstrumentJS\NodeWScript.js:444:5)&lt;br/&gt;
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)&lt;br/&gt;
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)&lt;br/&gt;
+    at Module.load (node:internal/modules/cjs/loader:1119:32)&lt;br/&gt;
+    at Module._load (node:internal/modules/cjs/loader:960:12)&lt;br/&gt;
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:86:12)&lt;/pre&gt;</data>
+</log>
+<log type="Test" name="Email Test" status="Fail" closed="Email Test" _guid="undefined"  at="2025-01-08 12:09:49.523" comment="Passed:0 Failed:1 Time:0.2s" />
