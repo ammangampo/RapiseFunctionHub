@@ -1,6 +1,6 @@
 # RapiseAutomationToolkit
 
-A collection of reusable automation functions for Rapise, covering PDF reading, spreadsheet data insertion, UI interactions, data extraction, and more. This repository serves as a centralized library for QA automation engineers to streamline their test automation workflows.
+A collection of reusable automation functions for Rapise, covering PDF reading, spreadsheet data insertion, UI interactions, data extraction, and more.
 
 ## Features
 - **PDF Reading:** Extract text and data from PDF files.
